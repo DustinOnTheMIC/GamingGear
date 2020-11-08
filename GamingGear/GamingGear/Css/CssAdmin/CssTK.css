@@ -1,0 +1,33 @@
+﻿.button-tk-size {
+    padding: 5px 20px;
+}
+.tk-div-top {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.tk-div1 {
+    margin-left: 20px;
+    float: right;
+    position: relative;
+    margin-right: -70px;
+}
+.tk-div2 {
+    position: relative;
+    float: left;
+}
+.tk-div3 {
+    width: 100%;
+    text-align: -webkit-center;
+    padding: 35px 0px;
+    margin-bottom:35px;
+}
+.textbox {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    color:white;
+}
+h3 {
+    text-align:center;
+}

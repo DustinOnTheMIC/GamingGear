@@ -1,0 +1,12 @@
+﻿.default-DDL {
+    background: transparent;
+    color: white;
+    border: 1px solid;
+    border-top-right-radius: 20px;
+}
+
+
+select option {
+    background: #2d3436;
+    color: white;
+}
